@@ -1,0 +1,100 @@
+/* Trabalho João Sampaio turma ADS noite 
+ * 
+ *  ATIVIDADES DA AULA 1
+ *  
+ *  
+ *  */  
+
+
+
+package br.com.nome;
+
+public class nome {
+
+	public static void main(String[] args) {
+		
+	/*	1º questão , 2º questão, 3º questão
+	
+		System.out.printf( "João Sampaio\t201601193831");
+		System.out.printf("\nADS"); *\
+		
+		
+	//	\\\\\\\\\\\\\\\\\\\\\\\\Fim \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+		
+	/* ********************************************************************************** */
+		
+		// \\\\\\\\\\\\\\\\\\\\inicio//////////////////////////////////
+		
+		// 4º questão , 5º questão
+		
+		/*  int i = 30;
+		  int d = 10;
+		 		  
+	        i = (i % d); // resto 0
+	        System.out.println("Resto da vivisão:" + i);
+	       
+	        if (i == 0 && i >= 0){
+                
+                System.out.println("O Resto da divisão não é nullo " );
+           } else {
+               
+                System.out.println(" O Resto da divisão é nullo"); */  
+                
+                
+         
+		////////// ////////Fim\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+		
+	/* ********************************************************************************** */
+		// \\\\\\\\\\\\\\\\\\\\inicio//////////////////////////////////
+		
+		// 6º questão
+		
+	/*  double n1 = 4;  //valor1 não é mostrado pois na atividade não pede
+	  double n2 = 2;	//valor2 v não é mostrado pois na atividade não pede
+	  
+	     double  soma = n1+n2 ;  // soma dos dois numero
+	     double  subtracao = n1-n2 ;  // subtração
+	     double  divisao = n1/n2 ;  // divisão dos dois numero
+	     double multi = n2 * n2; // multiplicação
+	 
+	 System.out.println("Resultado da soma é :"+soma);  // resultado
+	 System.out.println("Resultado da subtração é :"+subtracao);  // resultado
+	 System.out.println("Resultado da divisão é :"+divisao);  // resultado
+	 
+	 
+         if (soma >= multi ) { // soma é maior ou igual usando IF
+            
+           System.out.println("A soma é maior  " + soma); // se é maior  mostra soma
+          
+       } else {
+           
+           System.out.println(" A soma é menor :" + multi); // se não mostra multiplicação */
+		
+		///////////////////////Fim\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+		
+		/* ********************************************************************************** */
+		
+		
+		
+		
+		
+		
+		
+		
+			
+       }
+		
+		
+		
+                
+		
+		
+            	
+		
+		
+          
+		
+		
+	}
+
+}
